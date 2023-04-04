@@ -5,4 +5,4 @@
 <code><img src="https://fontawesomeicons.com/lib/svg/logo-sass.svg" width="50px"></code>
 <code><img src="https://logosdownload.com/logo/javascript-logo-512.png" width="50px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2S30Y-syZ09Q5GXXGBT_0VqFQpmWRmitjr8nuS309TAIlTqzOZkZ8mx12wZBPAlbX39M&usqp=CAU" width="50px"></code>
-<code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--HLY8DYqm--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/beddis55yiwtrptixyar.jpg" width="50px"></code>
+<code><img src="https://www.javascript.ba/system/posts/images/000/000/512/original/open-uri20190418-18480-1hrgmyt" width="50px"></code>
