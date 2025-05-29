@@ -3,6 +3,6 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="55px"></code>
 <code><img src="https://perishablepress.com/wp/wp-content/images/2008/misc-chunks/css-logo.jpg" width="38px"></code>
 <code><img src="https://fontawesomeicons.com/lib/svg/logo-sass.svg" width="55px"></code>
-<code><img src="[https://scand.com/wp-content/uploads/2021/04/JavaScript.jpg](https://files.ably.io/ghost/prod/2023/12/choosing-the-best-javascript-frameworks-for-your-next-project.png)" width="43px"></code>
+<code><img src="https://files.ably.io/ghost/prod/2023/12/choosing-the-best-javascript-frameworks-for-your-next-project.png" width="43px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2S30Y-syZ09Q5GXXGBT_0VqFQpmWRmitjr8nuS309TAIlTqzOZkZ8mx12wZBPAlbX39M&usqp=CAU" width="50px"></code>
 <code><img src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png" width="55px"></code>
